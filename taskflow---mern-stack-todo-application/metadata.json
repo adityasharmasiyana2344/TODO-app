@@ -1,0 +1,8 @@
+{
+  "name": "TaskFlow - MERN Stack Todo Application",
+  "description": "A modern, full-stack Todo management application built with MongoDB, Express, React, and Node.js featuring real-time statistics, filtering, search, and seamless task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

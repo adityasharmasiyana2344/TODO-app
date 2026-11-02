@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "65f0a12b4e8c1a2d3e4f5a01",
+    "title": "Design high-converting landing page mockups",
+    "description": "Create interactive Figma wireframes and design system components for client presentation.",
+    "completed": false,
+    "priority": "high",
+    "category": "Design",
+    "dueDate": "2026-11-04T07:07:25.847Z",
+    "createdAt": "2026-11-01T07:07:25.847Z",
+    "updatedAt": "2026-11-01T07:07:25.847Z"
+  },
+  {
+    "_id": "65f0a12b4e8c1a2d3e4f5a02",
+    "title": "Implement MongoDB Mongoose REST API endpoints",
+    "description": "Ensure full CRUD endpoints (GET, POST, PUT, DELETE, PATCH) with proper validation and error handling.",
+    "completed": true,
+    "priority": "high",
+    "category": "Backend",
+    "dueDate": "2026-11-02T07:07:25.847Z",
+    "createdAt": "2026-10-31T07:07:25.847Z",
+    "updatedAt": "2026-11-02T03:07:25.847Z"
+  },
+  {
+    "_id": "65f0a12b4e8c1a2d3e4f5a03",
+    "title": "Review weekly sprint milestones and team velocity",
+    "description": "Sync with frontend engineering and QA team for quarterly release readiness checklist.",
+    "completed": false,
+    "priority": "medium",
+    "category": "Management",
+    "dueDate": "2026-11-06T07:07:25.847Z",
+    "createdAt": "2026-10-30T07:07:25.847Z",
+    "updatedAt": "2026-11-02T07:58:58.313Z"
+  },
+  {
+    "_id": "65f0a12b4e8c1a2d3e4f5a04",
+    "title": "Audit application responsiveness and accessibility (a11y)",
+    "description": "Verify WCAG 2.1 AA color contrast, keyboard navigation, and mobile touch targets.",
+    "completed": false,
+    "priority": "low",
+    "category": "Frontend",
+    "dueDate": "2026-11-09T07:07:25.847Z",
+    "createdAt": "2026-10-29T07:07:25.847Z",
+    "updatedAt": "2026-11-02T07:58:57.008Z"
+  }
+]
